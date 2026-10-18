@@ -1,0 +1,11 @@
+# Example light set, listed low to high. Gauges are illustrative.
+name: Example light set
+scale: 25.5in
+material: nickel-wound
+
+E2 0.046        # wound
+A2 0.036        # wound
+D3 0.026        # wound
+G3 0.017 plain-steel
+B3 0.011 plain-steel
+E4 0.009 plain-steel
